@@ -1,8 +1,0 @@
-## Hardware Setup
-
-### Top View
-
-The prototype setup consists of an ESP32 microcontroller connected to a BME688 gas sensor for environmental and gas resistance measurements. A TFT display provides real-time visualisation of sensor readings during testing.
-
-The setup includes a disposable mouthpiece and breath sampling pathway positioned near the sensor to allow controlled exposure during breath response experiments.
-
