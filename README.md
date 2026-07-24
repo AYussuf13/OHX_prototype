@@ -10,6 +10,14 @@ Current approaches to monitoring cancer treatment response can rely on imaging a
 
 OHX explores the potential of non-invasive breath analysis as a complementary monitoring approach.
 
+## Development Vision
+
+The initial goal of OHX is to develop a low-cost breath sensing platform capable of capturing and learning patterns from breath-derived signals.
+
+The current prototype focuses on validating the feasibility of breath sampling, sensor response, and data acquisition.
+
+Future development will investigate whether machine learning approaches can identify meaningful patterns within breath signals and whether these patterns could support future applications in longitudinal health monitoring, including oncology.
+
 ## Current Prototype
 
 The current proof-of-concept includes:
