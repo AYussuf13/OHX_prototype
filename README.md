@@ -44,4 +44,4 @@ The current proof-of-concept includes:
 
 ## Disclaimer
 
-This is an early-stage research prototype and is not yet a medical device or diagnostic tool.
+This is an early-stage research prototype and is not yet a medical device.
