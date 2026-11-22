@@ -1,8 +1,5 @@
 # OHX
-
-## Breath-based monitoring for longitudinal oncology insights
-
-OHX is an early-stage medtech startup exploring whether breath-based VOC sensing can provide additional insights into cancer treatment monitoring.
+Check out the demo video & website for the final prototype.
 
 ## The Problem
 
